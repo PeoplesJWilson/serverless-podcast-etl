@@ -1,0 +1,11 @@
+layers
+artifacts
+*.pem
+ssh.sh
+ec2_data/environment.py
+
+.terraform
+.terraform.tfstate.lock.info
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
