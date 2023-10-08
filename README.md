@@ -25,6 +25,12 @@ Here is a brief video demonstrating the resulting dashboard:
 <video src="./photos/dash-demo-smaller.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
+This video may not show in Github. If you clone this repo and view this file, it should show. Alternatively, check out these screenshots:
+
+![dash-screenshot](photos/dash-demo-pic.png)
+
+![dash-screenshot](photos/dash-demo-pic-2.png)
+
 While the dashboard created in this project could be viewed by anyone on through a public dns of the EC2 instances, for monetary and free-tier usage purposes, I have terminated these resources.  To create your own dashboard, __please view the Reproducibility section__ and follow the simple steps. 
 
 
